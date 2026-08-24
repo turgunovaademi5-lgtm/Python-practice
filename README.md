@@ -1,5 +1,4 @@
 # Python-practice
-My python practice
 name = input("Введите ваше имя:")
 age = int(input("Введите ваш возрост:"))
 years = int(input("Через сколько лет вы хотите узнать свой возраст?:"))
